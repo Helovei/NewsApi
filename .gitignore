@@ -1,0 +1,6 @@
+#IDE
+/.idea
+/NewsApi.iml
+
+#Maven
+/target
